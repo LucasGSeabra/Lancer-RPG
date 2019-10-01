@@ -7,5 +7,6 @@ Lista de palavras recorrentes e suas traduções, com o objetivo de manter a tra
 + *Briefing* - Informações da Missão;
 + *Debrief* - Relatório da Missão;
 + *Downtime* - Folga;
++ *General Massive Systems (GMS)* - Sistemas Massivos Genéricos (SMG)
 
  Qualquer sugestão referente aos termos acima ou padronização de outros termos que não constem nessa lista, favor enviar através da Issue [#14](https://github.com/LucasGSeabra/Lancer-RPG/issues/14).
