@@ -14,7 +14,7 @@ Lancer conta com regras leves, criação modular de mechs, combate tático e um 
 O projeto de tradução não tem fins lucrativos e será distribuído gratuitamente, assim como o livro original em inglês.
 A tradução conta com a permissão dos autores [Miguel Lopez](https://twitter.com/the_one_lopez) e [Tom P. Morgan](https://twitter.com/orbitaldropkick).
 
-A tradução deve ser feita no formato [Markdown](https://blog.da2k.com.br/2015/02/08/aprenda-markdown/) e enviada conforme as issues do projeto, respeitando as definições de cada issue.
+A tradução deve ser feita no formato [Markdown](https://blog.da2k.com.br/2015/02/08/aprenda-markdown/) e enviada conforme as issues do projeto, respeitando as definições de cada issue e seguindo o [Guia de Contribuição](https://github.com/LucasGSeabra/Lancer-RPG/blob/master/CONTRIBUTING.md).
 
 Lancer é publicado pela editora [Massif Press](https://massif-press.itch.io/), estando em edição de pre-release e com lançamento oficial em inglês previsto para dezembro de 2019.
 
