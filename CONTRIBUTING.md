@@ -10,5 +10,3 @@ Lista de palavras recorrentes e suas traduções, com o objetivo de manter a tra
 
 
 
-
-Qualquer sugestão referente aos termos acima ou padronização de outros termos que não constem nessa lista, enviar para lucasgseabra@gmail.com.
