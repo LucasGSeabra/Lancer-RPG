@@ -10,9 +10,9 @@ Nós colocamos muito trabalho duro para polir e refinar essa versão do jogo nos
 
 Obrigado por jogar, e aproveite sua incursão no mundo de LANCER!
 
-​            Massif Press
+Massif Press
 
-​            Tom Parkinson-Morgan & Miguel Lopez
+Tom Parkinson-Morgan & Miguel Lopez
 <div style="page-break-after: always; visibility: hidden"> 
 \pagebreak 
 </div>
@@ -44,5 +44,93 @@ Miguel Lopez e Tom Parkinson Morgan.
 \pagebreak 
 </div>
 
-
-
++ A CAVALARIA
++ **REGRAS BÁSICAS**
+    - PREPARAÇÃO
+    - JOGO NARRATIVO E COMBATE MECHA
+    - Checagem de habilidades, ataques e defesas
+    - BÔNUS
+    - ACURÁCIA E DIFICULDADE
+    - BRAVURA
+    - TEMPO EM LANCER: MISSÃO, FOLGA, e CENA
++ **LICENSIADO PARA MATAR: PERSONAGENS EM LANCER**
+    - **Gráfico de níveis:**
+    - **O PILOTO**
+    - Fundos
+    - GATILHOS
+    - Pilotos em combate Mecha
+    - Criando um piloto
++ **O MECHA**
+    - PILOTANDO UM MECHA
+    - HABILIDADES DO MECHA
+    - O MECHA MODULAR
++ **ESTRUTURA DO MECHA**
+    - FRAME
+    - TAMANHO E ARMADURA
+    - MONTARIAS E ARMAS
+    - MONTARIAS
+    - PONTOS DE SISTEMA
+    - sistema de NÚCLEO
+    - ESTATÍSTICAS BÁSICAS e MELHORAMENTOS
+    - MELHORAMENTOS
+    - BÔNUS do NÚCLEO
+    - TALENTOS
++ **EXEMPLO DE CRIAÇÃO DE PERSONAGEM**
+    - Construíndo Oda: O Piloto
++ **A Estrutura Básica do LANCER: Jogo Narrativo**
+    - INFORMAÇÕES DA MISSÃO
+    - Objetivo
+    - Apostas
+    - Preparação
+    - BOTAS NO CHÃO
++ **JOGO NARRATIVO**
+    - Fazendo Checagem de Habilidades
+    - Iniciativa do Jogador e Ação do NPC
+    - Desafios de Habilidade
+    - Combate no Jogo Narrativo
+    - Pontos de Golpe, Dano e Ferida do Piloto
++ **RELATÓRIO DA MISSÃO e FOLGA**
+    - FOLGA
+    - RESERVAS
+    - Ações de Folga
+    - PODER SOBRE UM CUSTO
+    - JUNTANDO TUDO
++ **COMBATE MECHA**
+    - PERSONAGENS E OBJETOS
+    - ESPAÇO, TAMANHO E MEDIDA
++ **COMBATE BASEADO EM TURNO**
+    - O TURNO
++ **REFERÊNCIA RÁPIDA DE COMBATE**
++ **MOVIMENTO**
+    - Obstruções
+    - Engajamento
+    - Tamanho e movimento
+    - Movimento e Reações
+    - Movimento Involuntário
+    - TRAVERSAL E O AMBIENTE
+    - Dividindo movimento e ação
+    - TELEPORTE
+    - VÔO
++ **ATAQUES**
+    - Acerto Crítico
+    - Dano Bônus
+    - DISTÂNCIA E PADRÕES
+    - Ameaça
+    - Alvos Válidos
+    - Linha de visão
+    - COBERTURA
+    - Invisibilidade
+    - DANO
+    - OBJETOS E DANO
++ **AÇÕES**
++ **AÇÕES RÁPIDAS BÁSICAS**
+    - CONFLITO
+    - IMPULSO
+    - RAM
+    - AGARRAR
+    - TÉCNOLOGIA RÁPIDA
+    - ESCONDER
+    - BUSCAR
++ **AÇÕES COMPLETAS BÁSICAS**
+    
+    
