@@ -13,12 +13,10 @@ Obrigado por jogar, e aproveite sua incursão no mundo de LANCER!
 Massif Press
 
 Tom Parkinson-Morgan & Miguel Lopez
-<div style="page-break-after: always; visibility: hidden"> 
-\pagebreak 
-</div>
-#**Do conteúdo, Desconforto, e Lancer**
 
-##**Ei pessoal, uma pequena nota dos autores,**
+# **Do conteúdo, Desconforto, e Lancer**
+
+## **Ei pessoal, uma pequena nota dos autores,**
 
 Nesse livro há alguns temas e conteúdos carregados, difíceis ou até mesmo desconfortáveis sendo discutidos. _Lancer_ toma lugar em um arrange de recuperação de milênios de regras cruéis antrochauvinistas - uma ideologia fascista, imperial, que poem a Terra em primeiro lugar e teve pouco tempo, espaço, ou cuidado para reconhecer seres ou perspectivas que se moviam contra sua tirania ditatorial.
 
@@ -31,18 +29,13 @@ Sobre o risco de promover violência adiante por meio da descrição de mundos e
 Nós esperamos que você crie narrativas e personagens que enfrentem terríveis abusos e preconceitos. _Lancer_ não expõe simples aliens para passar adiante essas transgressões, apenas outros seres humanos; a humanidade sózinha é arquiteta de crueldades terríveis, mas nós também podemos ser arquitetos do melhor, mais que do futuro - do presente.
 
 _Lancer_ é um jogo que envolve guerra, combate, e confrontar os terrores da galáxia - feita por humanos ou não - mas isso não significa que um GM deva forçar seus jogadores a encontrar cenários ou conteúdo que seja "engatilhante" ou perigoso. Se há alguma presunção cânone que causaria você ou seus jogadores de se sentir inseguro ou aflito, então ela não precisa ser inclusa. Nós recomendamos utilizar [o Card X](https://www.gauntlet-rpg.com/tools-of-the-table.html) como ferramenta para estabelecer limites se necessário.
-<div style="page-break-after: always; visibility: hidden"> 
-\pagebreak 
-</div>
+
 Nós acreditamos que idéias de liberação, de anti-fascismo radical e anti-ódio, podem começar envolta da mesa com amigos e terminar nas ruas, nas urnas de eleição, e em todos os nossos corações. As vezes ao redor da mesa com amigos é o único lugar onde a liberação - onde revidar - pode acontecer. Isso não diminui o impacto que ela pode ter.
 
 É por isso que criamos _Lancer_: para ajudar as pessoas a revidar, se em nenhum outro lugar então envolta da mesa com nossos amigos.
 
 Em solidariedade,
 Miguel Lopez e Tom Parkinson Morgan.
-<div style="page-break-after: always; visibility: hidden"> 
-\pagebreak 
-</div>
 
 + A CAVALARIA
 + **REGRAS BÁSICAS**
@@ -53,11 +46,12 @@ Miguel Lopez e Tom Parkinson Morgan.
     - ACURÁCIA E DIFICULDADE
     - BRAVURA
     - TEMPO EM LANCER: MISSÃO, FOLGA, e CENA
-+ **LICENSIADO PARA MATAR: PERSONAGENS EM LANCER**
++ **LICENCIADO PARA MATAR: PERSONAGENS EM LANCER**
     - **Gráfico de níveis:**
     - **O PILOTO**
     - Fundos
     - GATILHOS
+    - Gatilhos
     - Pilotos em combate Mecha
     - Criando um piloto
 + **O MECHA**
@@ -65,7 +59,7 @@ Miguel Lopez e Tom Parkinson Morgan.
     - HABILIDADES DO MECHA
     - O MECHA MODULAR
 + **ESTRUTURA DO MECHA**
-    - FRAME
+    - CHASSI
     - TAMANHO E ARMADURA
     - MONTARIAS E ARMAS
     - MONTARIAS
@@ -88,7 +82,7 @@ Miguel Lopez e Tom Parkinson Morgan.
     - Iniciativa do Jogador e Ação do NPC
     - Desafios de Habilidade
     - Combate no Jogo Narrativo
-    - Pontos de Golpe, Dano e Ferida do Piloto
+    - Pontos de Acerto, Dano e Ferida do Piloto
 + **RELATÓRIO DA MISSÃO e FOLGA**
     - FOLGA
     - RESERVAS
@@ -107,7 +101,7 @@ Miguel Lopez e Tom Parkinson Morgan.
     - Tamanho e movimento
     - Movimento e Reações
     - Movimento Involuntário
-    - TRAVERSAL E O AMBIENTE
+    - ATRAVESSAR E O AMBIENTE
     - Dividindo movimento e ação
     - TELEPORTE
     - VÔO
@@ -132,5 +126,127 @@ Miguel Lopez e Tom Parkinson Morgan.
     - ESCONDER
     - BUSCAR
 + **AÇÕES COMPLETAS BÁSICAS**
+    - BARRAGEM
+    - TECNOLOGIA COMPLETA
+    - ATAQUE IMPROVISADO
+    - ESTABILIZAR
+    - DESENGAJAR
++ **OUTRAS AÇÕES**
+    - ATIVAR
+    - DESLIGAR
+    - INICIAR
+    - MONTAR, DESMONTAR, e EJETAR
+    - AUTO DESTRUIÇÃO
+    - PREPARAR
+    - CHECAGEM DE HABILIDADES
+    - SOBRECARREGAR
++ **REAÇÕES**
+    - RESISTIR
+    - VIGIAR
++ **Ações Gratuitas**
+    - Pilotos e IA em combate mecha
+    - LUTAR (AÇÃO COMPLETA)
+    - CAVALGAR (AÇÃO COMPLETA)
+    - PILOTO, MECHA, E IA
++ **Estado e Condições**
+    - DANO ESTRUTURAL
+    - CALOR E SUPERAQUECIMENTO
+    - DERRETIMENTO DO REATOR
+    - DORMIR e REPARAR
+    - Reparando um Mecha Destruído
+    - Reparo Completo
+    - Imprimindo
+    - MORTE
+    - CLONANDO
++ **O COMPÊNDIO**
++ **COMPÊNDIO**
++ **RÓTULOS DE ENGRENAGEM**
+    - FIM DO TURNO
+    - Espaço Válido e Direção
+    - Inteligência Artificial
+    - DANO DE SISTEMA
++ **Especialidade do Piloto**
+    - FIM DO TURNO
+    - Celebridade
+    - Colonialista
+    - Criminoso
+    - Hacker
+    - Time de Reconhecimento
+    - Mecânico
+    - Médico
+    - Mercenário
+    - Fora da lei
+    - Nobre
+    - Colonialista Penal
+    - Padre
+    - Ciêntista
+    - Soldado
+    - Spaceborn
+    - Operações Especiais
+    - Super Soldado
+    - Piloto da Frota Estelar
+    - Trabalhador
+    - EQUIPAMENTO DO PILOTO
++ **TALENTOS**
++ **LISTA DE TALENTOS**
+    - Ás
+    - Armeiro
+    - Vinculado
+    - Brigadeiro
+    - Bruto
+    - Atirador de Elite
+    - Centimano
+    - Armas Combinadas
+    - Duelista
+    - Piloto de Drone
+    - Engenheiro
+    - Carrasco
+    - Exemplar
+    - Pistoleiro
+    - Peão de reparo
+    - Hacker
+    - Artilheiro de Peso
+    - Caçador
+    - Infiltrador
+    - Fanático
+    - Líder
+    - Cavaleiro Nuclear
+    - Especialista de Cerco
+    - Guerrilheiro
+    - Observador
+    - Portador da Tempestade
+    - Tático
+    - Tecnófilo
+    - Vanguarda
++ **GUIA RÁPIDO DE LINCENCIAMENTO**
+    - Sistemas Gerais Massivos
+    - Os Quatro Grandes
++ **SGM - SISTEMAS GERAIS MASSIVOS**
+    - SGM BÔNUS PRINCIPAIS
+    - SGM Padrão Comum I ("Everest")
+    - SGM Lista de Armas Mecha
+    - SGM MODIFICAÇÕES DE CHASSIS NO MERCADO GERAL
+    - SGM Lista de Sistemas do Mercado Geral
+    - VÔO
++ **IPS-ESTRELA DO NORTE**
+    - IPS-N BÔNUS PRINCIPAIS
+    - IPS-N BARBA NEGRA
+    - IPS-N LANCASTER
+    - IPS-N NELSON
+    - IPS-N RALEIGH
+    - IPS-N TORTUGA
+    - IPS-N VLAD
++ **CORPORAÇÃO SMITH-SHIMANO**
+    - CSS BÔNUS PRINCIPAIS
+    - CSS BRUXA NEGRA
+    - CSS CABEÇA DA MORTE
+    - CSS ASA SOMBRIA
+    - CSS MARCAMETAL
+    - CSS MONARCA
+    - CSS MANTO DE LUTO
+    - CSS RABIANDORA
+
+    
+    
     
     
