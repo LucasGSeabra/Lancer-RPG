@@ -237,14 +237,198 @@ Miguel Lopez e Tom Parkinson Morgan.
     - IPS-N TORTUGA
     - IPS-N VLAD
 + **CORPORAÇÃO SMITH-SHIMANO**
-    - CSS BÔNUS PRINCIPAIS
-    - CSS BRUXA NEGRA
-    - CSS CABEÇA DA MORTE
-    - CSS ASA SOMBRIA
-    - CSS MARCAMETAL
-    - CSS MONARCA
-    - CSS MANTO DE LUTO
-    - CSS RABIANDORA
+    - BÔNUS DE NÚCLEO CSS
+    - BRUXA NEGRA CSS
+    - CABEÇA DA MORTE CSS
+    - ASA SOMBRIA CSS
+    - MARCAMETAL CSS
+    - MONARCA CSS
+    - MANTO DE LUTO CSS
+    - RABO-DE-ANDORINHA CSS
++ **HÓRUS**
+    - BÔNUS DO NÚCLEO HÓRUS
+    - BALOR HÓRUS
+    - GOBLIN HÓRUS
+    - GÓRGONA HÓRUS
+    - HYDRA HÓRUS
+    - MANTÍCORA HÓRUS
+    - MINOTAURO HÓRUS
+    - PEGASUS HÓRUS
++ **ARSENAL HARRISON**
+    - BÔNUS DE NÚCLEO ARSENAL HARRISON
+    - BARBAROSSA ARSENAL HARRISON
+    - GENGHIS ARSENAL HARRISON
+    - ISKANDER ARSENAL HARRISON
+    - NAPOLEAO ARSENAL HARRISON
+    - SALADIN ARSENAL HARRISON
+    - TOKUGAWA ARSENAL HARRISON
++ **O Mestre Do Jogo**
+    - A AGENDA DO GM
++ **PREPARANDO UM JOGO**
+    - A Primeira Sessão
+    - Aonde e Como Começar Sua Narrativa
+    - Ganchos de Missão
++ **CORRENDO UM JOGO**
+    - CHECAGEM DE HABILIDADES
+    - A SESSÃO
+    - MOVENDO ADIANTE
++ **FERRAMENTAS DO GM**
+    - MUDANDO AS SUPOSIÇÕES PRINCIPAIS
++ **SITREP**
+    - ESCOLTA
+    - EXTRAÇÃO
+    - OFERECER
+    - MANOPLA
+    - RECONHECIMENTO
++ **Um Gerador Sem Fim, Uma Forja Inquieta**
++ **PERSONAGENS NÃO JOGÁVEIS**
++ **CLASSES DE NPC**
+    - ÁS
+    - ÉGIDE
+    - ARQUEIRO
+    - ASSASSINO
+    - ATACANTE
+    - BARRICADA
+    - BASTIÃO
+    - BERSERKER
+    - BOMBARDEIRO
+    - ILÍCITO
+    - CATAPHRACT
+    - DEMOLIDOR
+    - ENGENHEIRO
+    - GOLIAS
+    - Defensor
+    - COLMÉIA
+    - BESOURO
+    - MIRAGEM
+    - OPERADOR
+    - PADRE
+    - PYRO
+    - PLUVIOMANTE
+    - RONIN
+    - SANETIZADOR
+    - ESCOTEIRO
+    - SEMEADOR
+    - SENTINELA
+    - SNIPER
+    - ESPECTRO
+    - SUPORTE
+    - BRUXO
++ **CLASSES ESPECIAIS**
+    - HUMANO
+    - ESQUADRÃO DE INFANTARIA
+    - MONSTRUOSIDADE
+    - ULTRA
+    - ELITE
+    - BRUTO
+    - VETERANO
+    - EXÓTICO
+    - DRONE
+    - MERCENÁRIO
+    - COMANDANTE
+    - PIRATA
+    - ASTRONAUTA
+    - VEÍCULO
+    - NAVE
++ **UMA ERA DE OURO, DE UM TIPO:**
++ **HUMANIDADE SOBRE UNIÃO, 5016**
++ **Linha do tempo da História da União**
++ **Dia da Fundação**
++ **Cygnus Spur, Orion Arm: Humanidade Além das Estrelas**
+    - O Terceiro Comitê: Uma Mais, Com Sentimentos
+    - Por que nós Voamos
+    - Pilotos, Lancers, e União
+    - Uma vida toda de experiência
+    - Cavalaria Mecanizada
+    - Infantaria e outras Forças de Chão
+    - Capital, Diáspora, e Colônia
+    - Colônias e Mundos: Fincando uma Bandeira
+    - Uma Alquimia Curiosa: Um Milagre Mundano
+    - Manna
+    - Organização Galática da União
+    - Vida Não-Humana
+    - Gravidade
+    - Como Chegar Lá
+    - Tempo, E Sua Passagem
+    - Sociedades Comuns
+    - Sociedades Incomuns
++ **Localizações Únicas**
+    - Berço
+    - Deimos
+    - Hercynia
+    - Bastião (Aun'lst)
+    - Cornucopia
+    - Karrakis
+    - Ras Shamra
+    - Carina
++ **Jogadores em uma Escala Galáctica**
+    - Sistemas Massivos Gerais
+    - Arsenal Harrison
+    - Arsenal Harrison - Exemplo Pontual: Operação Clarion
+    - Corporação Smith-Shimano
+    - Corporação Smith Shimano - Exemplo Pontual: Fora do Jardim
+    - IPS-Estrela do norte
+    - IPS-Estrela do norte - Exemplo Pontual: Costa Linha da Alvorada
+    - HÓRUS
+    - HÓRUS - Exemplo Pontual: ESTABELECER///MANTER:
+    - Um Cisco de Poeira Na Lente; Um Grão de Areia No Pão
++ **União: O Tirano, O Vigia, A Mão Guia**
+    - O Terceiro Comitê
+    - Bizântio, Reprise
+    - Departamento Administrativo da União (UAD)
+    - Departamento Naval da União (UND, ou mais comumente, UN)
+    - Bureau Científico da União (USB)
+    - Comitê Central da União (CentCom)
+    - Previsão do tempo / GALSIM
+    - Bureau de Omnirede da União (BOU)
+    - Bureau Economico da União (BEU)
+    - Departamento Interestelar de Transporte (DIT)
+    - Bureau de Administração Colonial da União (BACU)
+    - União Orbital e Bureau de Gerenciamento Não-Terrestre (UO/ BGNT)
+    - Departamento de Justiça e Direitos Humanos da União (DJDHU)
++ **Tecnologia e Cultura na União Espacial**
+    - Clonando
+    - Androidismo, Transhumanismo, e Consciência Divorciada
+    - Extensão Biológica
+    - Pirataria
+    - Escravatura
+    - Estudos Paracausais
++ **Humanidade e Inteligência Artificial**
+    - Unidade Companheira/Porteira
+    - Armamento Inteligente
+    - Pessoa Não-Humana
+    - Mente Bicameral (Classe-Soberana)
+    - Entidade MONISTA
+    - Paracausalidade
++ **FACÇÕES NOTÁVEIS, ATORES, E GRUPOS**
+    - O Albatross
+    - Compania Mercenária Fumaça-espelhada
+    - Departamento de Aquisições e Gerenciamento da Arsenal Harrison
+    - Segurança Constellar, Corporação Congregacional Diplomática da Corporação Smith-Shimano
+    - Auxiliares da União
+    - Escritório de Ciência da União, Departamento de Campo-Grande
+    - Departamento de Justiça e Direitos Humanos
+    - Voladores
+    - Horizonte
+    - Barões de Troca Karrakin
+    - Os Ingratos
+    - Clans Sparri
++ **ALÉM DA UNIÃO**
+    
+    
+    
+    
+    
+
+
+
+    
+    
+
+    
+    
+    
+    
 
     
     
